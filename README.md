@@ -10,7 +10,7 @@ As a developer looking to join a new team, my user stories are:
 By the end of step 3, there is enough information to create a prioritised list of classes and methods to dig into or have UML generated for (using Plant UML) to try
 and understand better.
 
-I will be using real-logic/aeron as an example, because I've been playing with it recently and also it is a good example of a repo with possible cross-dependence between modules/sub projects. Please be aware that all results from tools are shortened or intended as samples only to illustrate a process.
+I will be using real-logic as an example, because I've been playing with it recently and also it is a good example of a repo with possible cross-dependence between modules/sub projects (e.g. dependencies on Agrona across multiple projects). Please be aware that all results from tools are shortened or intended as samples only to illustrate my process.
 
 ## Code metrics ##
 
