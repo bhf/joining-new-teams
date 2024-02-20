@@ -126,7 +126,9 @@ The combined coverage is:
 Whilst the method coverage looks very low, approximatly 17k methods are auto-generated so if we account for that then the method coverage is closer
 to 63% and the line coverage also increases.
 
-The combined project base requires unit tests across sub-projects to get that kind of coverage. For example,
+The combined project base requires unit tests across sub-projects to get that kind of coverage. 
+
+For example,
 if we look at the coverage for io.aeron.driver.media using the unit tests only in Aeron-driver we see the 
 class and method level coverage is approximatly 65% whereas when we look at the coverage across all projects for that 
 package then the coverage jumps.
@@ -138,7 +140,7 @@ package then the coverage jumps.
 | All projects | io.aeron.driver.media | 97.7% (42/43) | 87.9% (306/348) | 81.2% (1268/1562) |
 
 
-This means the coverage is dependent upon cross-project unit tests. It was at this point I realised Martin Thompson is only human :-o
+This means the coverage is dependent upon cross-project unit tests.
 
 
 
