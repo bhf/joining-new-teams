@@ -138,7 +138,7 @@ package then the coverage jumps.
 | All projects | io.aeron.driver.media | 97.7% (42/43) | 87.9% (306/348) | 81.2% (1268/1562) |
 
 
-This means the coverage is dependent upon cross-project unit tests. 
+This means the coverage is dependent upon cross-project unit tests. It was at this point I realised Martin Thompson is only human :-o
 
 
 
